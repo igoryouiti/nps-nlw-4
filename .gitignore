@@ -105,3 +105,4 @@ dist
 
 # Database sqlite - gera automaticamente
 src/database/database.sqlite
+src/database/database.test.sqlite
