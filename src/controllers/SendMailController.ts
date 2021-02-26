@@ -43,7 +43,7 @@ class SendMailController {
 
     const variables = {
       name: user.name,
-      survey: survey.title,
+      title: survey.title,
       description: survey.description,
       id: "",
       link: process.env.URL_MAIL
